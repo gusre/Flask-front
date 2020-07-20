@@ -1,1 +1,1 @@
-React front end for Rect-flask web app.
+React front end for React-flask web app.
